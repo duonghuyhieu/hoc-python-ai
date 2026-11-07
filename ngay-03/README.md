@@ -1,6 +1,6 @@
 # Ngày 3 · Chuỗi & list
 
-> Python AI 80 ngày · 1. Python cho người đã biết code · video 1 phút 15 giây
+> Python AI 80 ngày · 1. Python cho người đã biết code · video 1 phút 16 giây
 
 ## Bạn học gì
 
@@ -62,7 +62,7 @@ An Em
 ['Bảo', 'Chi']
 ```
 
-Đó là vì Python đếm từ không: vị trí một là Bảo. Còn âm một là người cuối, khỏi đếm. Lát một đến ba là người thứ hai tới trước người thứ tư. Trợ lý homestay ngày tám mươi cũng cắt lấy ba đoạn tài liệu khớp nhất.
+Đó là vì Python đếm từ không: vị trí một là Bảo. Còn âm một là người cuối, khỏi đếm. Lát một đến ba là người thứ hai tới trước người thứ tư. Trợ lý homestay ngày tám mươi cũng lấy đoạn tài liệu bằng chỉ số như thế.
 
 ### Ý chính — KHÁI NIỆM — Hai cách gọi, ba ô cắt
 

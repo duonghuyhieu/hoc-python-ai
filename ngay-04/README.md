@@ -1,6 +1,6 @@
 # Ngày 4 · dict, tuple, set
 
-> Python AI 80 ngày · 1. Python cho người đã biết code · video 1 phút 13 giây
+> Python AI 80 ngày · 1. Python cho người đã biết code · video 1 phút 14 giây
 
 ## Bạn học gì
 
@@ -59,7 +59,7 @@ Kết quả (máy đã chạy thật):
 0
 ```
 
-Đổi sang hàm get kèm mặc định, sách vắng ra không. Trợ lý homestay ngày tám mươi tra tài liệu theo khóa đúng kiểu này.
+Đổi sang hàm get kèm mặc định, sách vắng ra không. Đọc cấu hình, đếm từ, gom đơn theo khách: dân làm dữ liệu dùng dict và get hằng ngày.
 
 ### Ý chính — KHÁI NIỆM — Ba kiểu gom dữ liệu
 
